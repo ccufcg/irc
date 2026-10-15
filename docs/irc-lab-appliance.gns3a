@@ -1,0 +1,23 @@
+{
+    "appliance_id": "57c805b2-ad62-4594-ad18-290f8ab0ab66",
+    "name": "IRC-VM",
+    "category": "guest",
+    "description": "Nó Linux único da disciplina Interconexão de Redes de Computadores (UFCG/UASC). Funciona como PC, servidor, roteador (FRRouting, BIRD) ou máquina de ataque, conforme o roteiro. Inclui iperf, tshark, Python (scapy, netmiko), lldpd, WireGuard, strongSwan, SNMP e outras ferramentas. Serviços instalados e desligados por padrão.",
+    "vendor_name": "UFCG/CEEI/UASC",
+    "vendor_url": "https://github.com/ccufcg/irc",
+    "documentation_url": "https://github.com/ccufcg/irc",
+    "product_name": "irc-lab",
+    "product_url": "https://github.com/ccufcg/irc",
+    "registry_version": 4,
+    "status": "stable",
+    "maintainer": "Thiago Nóbrega",
+    "maintainer_email": "thiagonobrega@computacao.ufcg.edu.br",
+    "usage": "Console telnet (bash). Digite irc-ajuda para ver as ferramentas e irc-teste para validar o ambiente. Serviços iniciam com irc-svc start <nome>, por exemplo irc-svc start frr. Arquivos em /root/lab só sobrevivem se o diretório for marcado como persistente no template.",
+    "symbol": "linux_guest.svg",
+    "docker": {
+        "adapters": 4,
+        "image": "ghcr.io/ccufcg/irc-lab:1.1",
+        "start_command": "/bin/bash",
+        "console_type": "telnet"
+    }
+}
