@@ -10,6 +10,7 @@ Cada roteiro segue a ordem da aula e usa os mesmos comandos, nomes e endereços 
 |---|---|---|
 | 8A | Switching: o problema do hub e a solução com o switch | [`guia_de_aulas/8A/`](guia_de_aulas/8A/): [HUB.md](guia_de_aulas/8A/HUB.md) e [SWITCH.md](guia_de_aulas/8A/SWITCH.md) |
 | 8B | Switching: descoberta de vizinhos (LLDP), MAC flooding e DHCP | [`guia_de_aulas/8B/`](guia_de_aulas/8B/): [ROTEIRO.md](guia_de_aulas/8B/ROTEIRO.md) |
+| 9 | VLAN (802.1Q): DHCP por VLAN, tronco e roteamento entre VLANs | [`guia_de_aulas/9/`](guia_de_aulas/9/): [ROTEIRO.md](guia_de_aulas/9/ROTEIRO.md) |
 
 
 ### Pré-requisitos
