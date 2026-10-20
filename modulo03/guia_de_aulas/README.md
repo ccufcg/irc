@@ -11,6 +11,7 @@ Siga os arquivos de cada aula na ordem indicada.
 | Aula | Tema | Guia |
 |---|---|---|
 | 8A | Switching: o problema do hub e a solução com o switch | 1. [HUB.md](8A/HUB.md)<br>2. [SWITCH.md](8A/SWITCH.md) |
+| 8B | Switching: descoberta de vizinhos (LLDP), MAC flooding e DHCP | [ROTEIRO.md](8B/ROTEIRO.md) |
 
 ## Cenários
 
