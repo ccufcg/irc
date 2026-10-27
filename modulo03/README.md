@@ -24,5 +24,6 @@ Cada roteiro segue a ordem da aula e usa os mesmos comandos, nomes e endereços 
 | Atividade | Tema | Onde |
 |---|---|---|
 | Comutação | Laboratório sobre comutação em camada 2 | [`flood/`](flood/) |
+| VLAN na UASC | A rede dos laboratórios da UASC: VLSM, escolha da topologia e do switch que roteia, tronco, DHCP e roteamento entre VLANs, com três pedidos de mudança | [`vlan-uasc/`](vlan-uasc/) (enunciado em [README.md](vlan-uasc/README.md), gabarito do professor em [gabarito.md](vlan-uasc/gabarito.md)) |
 | VLAN | A rede nova dos prédios do campus: projetar a segmentação em VLANs e o endereçamento, configurar os switches do prédio e ligá-lo ao núcleo | [`vlan/`](vlan/) (enunciado em [README.md](vlan/README.md), gabarito do professor em [gabarito.md](vlan/gabarito.md)) |
  -->
