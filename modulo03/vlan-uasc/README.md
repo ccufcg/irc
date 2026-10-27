@@ -82,7 +82,7 @@ Antes de instalar qualquer equipamento nos laboratórios, o STI monta a rede num
 
 ### O projeto da bancada
 
-O projeto [`gns3/_exports/uasc.gns3project`](gns3/_exports/uasc.gns3project) tem os quatro switches e os dez PCs, já com os nomes do levantamento e **sem nenhum cabo**. Para abrir, usem **File > Import portable project** no GNS3.
+O projeto [`gns3/_exports/uasc.gns3project`](gns3/uasc.gns3project) tem os quatro switches e os dez PCs, já com os nomes do levantamento e **sem nenhum cabo**. Para abrir, usem **File > Import portable project** no GNS3.
 
 - Os switches são EXOS-VM, como nas aulas. O usuário é `admin` e a senha é vazia.
 - Os PCs são VPCS.
