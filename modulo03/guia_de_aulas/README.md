@@ -13,6 +13,8 @@ Siga os arquivos de cada aula na ordem indicada.
 | 8A | Switching: o problema do hub e a solução com o switch | 1. [HUB.md](8A/HUB.md)<br>2. [SWITCH.md](8A/SWITCH.md) |
 | 8B | Switching: descoberta de vizinhos (LLDP), MAC flooding e DHCP | [ROTEIRO.md](8B/ROTEIRO.md) |
 | 9 | VLAN (802.1Q): DHCP por VLAN, tronco e roteamento entre VLANs | [ROTEIRO.md](9/ROTEIRO.md) |
+| 10 | Plano de endereçamento e nomes: VLSM, hierarquia, DHCP e nomes (feito em sala, em grupos) | [ROTEIRO.md](10/ROTEIRO.md) |
+| 11A | Redundância em camada 2: o laço, STP, RSTP e MSTP no anel CP–CN–CO | [ROTEIRO.md](11A/ROTEIRO.md) |
 
 ## Cenários
 

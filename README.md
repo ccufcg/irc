@@ -11,6 +11,7 @@ Abaixo, você encontrará uma tabela com todas as atividades práticas do semest
 | 1       | Módulo 01: Revisão de Conceitos | Endereçamento IPv4 e roteamento estático com Extreme OS (EXOS) no GNS3.                                                                                    | ✅ Concluído | [Acessar Atividade](./modulo01/README.md)           |
 | 2       | Projeto de Cabeamento Estruturado | Levantamento de pontos, planta de cabeamento estruturado, backbone entre pavimentos, lista de materiais, orçamento e plano de endereçamento IP (VLSM).     | ✅ Concluído | [Acessar Atividade](./modulo02/projeto/README.md)   |
 | 3       | Projeto de VLAN na UASC           | Projetar o plano de endereçamento (VLSM), topologia e switch que roteia, tronco 802.1Q, DHCP e roteamento entre VLANs, testes de aceite para a rede da UASC | 🔥 ATUAL      | [Acessar Atividade](./modulo03/vlan-uasc/README.md) |
+| 3       | Projeto de proteção L2           | Projetar o dominios STP em um cenario real | 🔥 ATUAL      | [Acessar Atividade](./modulo03/vlan-uasc/README.md) |
 
 <!-- | 1 | Laboratório 1: Modulação Digital com Áudio & Análise de erros de comunicação | Conversão de bits em sinais de áudio (FSK), codificação, decodificação, impacto do ruído. | 🔥 ATUAL | [Acessar Atividade](./lab01/modulacao/README.md) | -->
 
